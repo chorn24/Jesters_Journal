@@ -1,0 +1,69 @@
+.magpad {
+    margin: 0;
+    padding: 0;
+}
+
+.Heading1 {
+    background-color: rgb(51, 51, 51);
+    width: 100%;
+    height: 40pt;
+    color: white;
+    font-family: cascadia code;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.background {
+    background-image: url(images/Throne-Room-Day-1.png);
+    background-size: cover;
+}
+
+
+.Talign {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.Textee {
+    color: rgb(255, 255, 255);
+    font-family: cascadia code;
+    font-size: 15pt;
+}
+
+.Rando {
+    text-align: center;
+    background-color: #66da66;
+    width: 100pt;
+    height: 30pt;
+    border: 2pt rgb(147, 245, 184) solid;
+}
+
+.Rando:hover {
+    background-color: #9be29b;
+    border: 2pt rgb(95, 214, 141) solid;
+    cursor: pointer;
+}
+
+
+.Image_Border {
+    border: solid 3pt yellow;
+    height: 275pt;
+    width: 300pt;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.texting {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.JokeTable {
+    color:rgb(0, 0, 0);
+    background-color: rgb(228, 192, 159);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
